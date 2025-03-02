@@ -21,6 +21,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashutosh-jagdale&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashutosh-jagdale&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ashutosh-jagdale&label=Profile%20Views&color=blue&style=plastic)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
