@@ -6,7 +6,8 @@
 - Master of Science in Computer Science — *Indiana University Bloomington*  
 - Bachelor of Engineering in Information Technology — *Savitribai Phule Pune University*  
 
-💼 **Experience**  
+💼 **Experience** 
+- **Full Stack Data Engineer (Consultant II)** @ EXL, Remote, United States  
 - **Senior Consultant** @ Heartland Community Network, Remote, United States  
 - **Software Engineer Intern** @ Hyphenova, Remote, United States  
 - **Digital Specialist Engineer** @ Infosys Limited, Pune, India  
